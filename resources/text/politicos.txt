@@ -1,0 +1,11 @@
+manuela,a,PCdoB
+lula,o,PT
+palocci,o,PT
+maria do rosário,a,PT
+michel temer,o,PMDB
+tabata amaral,a,PDT
+meirelles,o,PMDB
+renan bolsonaro,o,Patriotas
+roseana sarney,a,PDS
+brizola,o,PDT
+dilma,a,PT
